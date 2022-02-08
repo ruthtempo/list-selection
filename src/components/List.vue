@@ -14,11 +14,6 @@
 <script>
 export default {
   name:"List",
-  // data(){
-  //   return{
-      
-  //   }
-  // },
   props:{
     selection: Array,
     list: Array
